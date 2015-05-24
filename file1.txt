@@ -1,2 +1,2 @@
 laba lerar
-master
+slave
